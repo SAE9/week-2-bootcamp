@@ -1,2 +1,2 @@
-# week-2-bootcamp
+# Day-2-bootcamp
 intro to git
